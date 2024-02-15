@@ -24,15 +24,15 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
 
-            <Button x:Name="button1" Grid.Row="0" Grid.Column="0" FontSize="40" Background="#FFFC0E0E" />
+            <Button x:Name="button1" Grid.Row="0" Grid.Column="0" FontSize="40" Background="White" />
             <Button x:Name="button2" Grid.Row="0" Grid.Column="1" FontSize="40" Background="White" />
-            <Button x:Name="button3" Grid.Row="0" Grid.Column="2" FontSize="40" Background="Red" />
+            <Button x:Name="button3" Grid.Row="0" Grid.Column="2" FontSize="40" Background="White" />
             <Button x:Name="button4" Grid.Row="1" Grid.Column="0" FontSize="40" Background="White" />
-            <Button x:Name="button5" Grid.Row="1" Grid.Column="1" FontSize="40" Background="Red" />
+            <Button x:Name="button5" Grid.Row="1" Grid.Column="1" FontSize="40" Background="White" />
             <Button x:Name="button6" Grid.Row="1" Grid.Column="2" FontSize="40" Background="White" />
-            <Button x:Name="button7" Grid.Row="2" Grid.Column="0" FontSize="40" Background="Red" />
+            <Button x:Name="button7" Grid.Row="2" Grid.Column="0" FontSize="40" Background="White" />
             <Button x:Name="button8" Grid.Row="2" Grid.Column="1" FontSize="40" Background="White" />
-            <Button x:Name="button9" Grid.Row="2" Grid.Column="2" FontSize="40" Background="Red" />
+            <Button x:Name="button9" Grid.Row="2" Grid.Column="2" FontSize="40" Background="White" />
         </Grid>
 
         <Button x:Name="newGameButton" Grid.Row="0" Grid.Column="1" Margin="10" Content="Новая Игра" Click="NewGameButton_Click" />
